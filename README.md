@@ -1,6 +1,5 @@
-# archfolio.ai
-
-import React, { useState, useEffect, useRef } from 'react';
+```tsx
+// import React, { useState, useEffect, useRef } from 'react';
 import { 
   Upload, FileImage, CheckCircle, AlertTriangle, 
   Layout, Palette, Brain, ChevronRight, BarChart3, 
@@ -371,3 +370,6 @@ export default function App() {
     </div>
   );
 }
+import React from 'react';
+...
+```
